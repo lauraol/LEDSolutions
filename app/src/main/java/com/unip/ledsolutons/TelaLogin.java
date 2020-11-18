@@ -24,9 +24,9 @@
             tPassword = (EditText) findViewById(R.id.tPassword);
             btLogin = (Button) findViewById(R.id.buttonLogin);
         }
-         btLogin.setOnClickListener(new View.OnClickListener()
+         // btLogin.setOnClickListener(new View.OnClickListener()
 
-        {
+        /*{
             @Override
             public void onClick (View v){
             if (tEmail.getText().length() == 0 || tPassword.getText().length() == 0) {
@@ -42,5 +42,9 @@
                 //Limpando os dados digitados programaticamente
                 tEmail.setText("");
                 tPassword.setText("");
+                }
+            }
+        }*/
+    }
 
   
