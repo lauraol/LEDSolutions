@@ -42,7 +42,7 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
         listView = findViewById(R.id.lista_usuarios);
         dao = new UsuarioDAO(this);
 
-        pegaUsuarioPorId = dao.obterUsuarioPorId(2); // pegando meu usuario
+        pegaUsuarioPorId = dao.obterUsuarioPorId(3); // pegando meu usuario
         usuariosFiltrados.add(pegaUsuarioPorId); //lista dos dados
         ArrayAdapter<Usuario> adaptador = new ArrayAdapter<Usuario>(this, android.R.layout.simple_list_item_1, Collections.singletonList(pegaUsuarioPorId));
 

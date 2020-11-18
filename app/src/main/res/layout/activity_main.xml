@@ -29,10 +29,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-        <EditText
+    <EditText
         android:id="@+id/fieldName"
         android:layout_width="269dp"
-        android:layout_height="20dp"
+        android:layout_height="35dp"
         android:layout_marginStart="42dp"
         android:layout_marginLeft="42dp"
         android:layout_marginTop="5dp"
@@ -40,6 +40,7 @@
         android:layout_marginRight="42dp"
         android:drawablePadding="5dp"
         android:inputType="textPersonName"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/register_name" />
@@ -61,13 +62,14 @@
     <EditText
         android:id="@+id/fieldEmail"
         android:layout_width="269dp"
-        android:layout_height="20dp"
+        android:layout_height="35dp"
         android:layout_marginStart="42dp"
         android:layout_marginLeft="42dp"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="42dp"
         android:layout_marginRight="42dp"
         android:inputType="textPersonName"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/register_email" />
@@ -89,13 +91,14 @@
     <EditText
         android:id="@+id/fieldCPF"
         android:layout_width="269dp"
-        android:layout_height="20dp"
+        android:layout_height="35dp"
         android:layout_marginStart="42dp"
         android:layout_marginLeft="42dp"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="42dp"
         android:layout_marginRight="42dp"
         android:inputType="textPersonName"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/register_CPF" />
@@ -117,13 +120,14 @@
     <EditText
         android:id="@+id/fieldPhone"
         android:layout_width="269dp"
-        android:layout_height="20dp"
+        android:layout_height="35dp"
         android:layout_marginStart="42dp"
         android:layout_marginLeft="42dp"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="42dp"
         android:layout_marginRight="42dp"
         android:inputType="textPersonName"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/register_phone" />
@@ -145,13 +149,14 @@
     <EditText
         android:id="@+id/fieldPassword"
         android:layout_width="269dp"
-        android:layout_height="20dp"
+        android:layout_height="35dp"
         android:layout_marginStart="42dp"
         android:layout_marginLeft="42dp"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="42dp"
         android:layout_marginRight="42dp"
         android:inputType="textPersonName"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/register_password" />
