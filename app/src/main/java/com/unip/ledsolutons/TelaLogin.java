@@ -43,9 +43,4 @@
                 tEmail.setText("");
                 tPassword.setText("");
 
-            }
-
-        }
-        });
-    }
-
+  

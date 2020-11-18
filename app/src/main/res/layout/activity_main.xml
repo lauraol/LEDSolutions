@@ -10,8 +10,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="29dp"></LinearLayout>
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"/>
 
     <TextView
         android:id="@+id/register_name"
