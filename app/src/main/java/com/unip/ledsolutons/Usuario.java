@@ -1,5 +1,7 @@
 package com.unip.ledsolutons;
 
+import android.support.annotation.NonNull;
+
 import java.io.Serializable;
 
 public class Usuario implements Serializable {
@@ -56,5 +58,11 @@ public class Usuario implements Serializable {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    @NonNull
+    @Override
+    public String toString() {
+        return nome + "\n" + "\n" + email;
     }
 }
