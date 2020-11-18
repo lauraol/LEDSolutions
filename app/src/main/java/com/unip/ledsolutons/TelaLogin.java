@@ -7,13 +7,12 @@ import android.os.Bundle;
 
 public class TelaLogin extends AppCompatActivity {
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    //@Override
+    /*protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tela_login);
         Button btLogin = (Button) findViewById(R.id.btLogin);
         btLogin.setOnClickListener(new View.OnClickListener() {
-            @Override
             public void onClick(View v){
                 TextView tEmail =(TextView) findViewById(R.id.tEmail);
                 TextView tSenha = (TextView) findViewById(R.id.tSenha);
@@ -28,8 +27,8 @@ public class TelaLogin extends AppCompatActivity {
             }
         });
 
-    }
-    private void alert(String s) {
+    }*/
+    /*private void alert(String s) {
         Toast.makeText(this,s,Toast.LENGTH_LONG).show();
-    }
+    }*/
 }

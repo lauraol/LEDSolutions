@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LEDSolutons">
-        <activity android:name=".TelaLogin"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".TelaLogin" />
+        <activity android:name=".PerfilUsuarioActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
