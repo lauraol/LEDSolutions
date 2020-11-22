@@ -4,5 +4,9 @@
     <string name="senha">Senha</string>
     <string name="login">Login</string>
     <string name="cadastrar">Cadastrar</string>
+    <string name="myOptions">Minhas Opções</string>
+    <string name="investments">Investimentos</string>
+    <string name="balance">Saldo na carteira</string>
+    <string name="btLogout">Sair</string>
 
 </resources>

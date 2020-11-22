@@ -67,6 +67,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
+                                                <entry key="color" value="000000" />
                                                 <entry key="imagePath" value="C:\Users\yamam\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
@@ -79,7 +80,9 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\yamam\AndroidStudioProjects\LEDSolutons\app\src\main\res\drawable\finance_guys.jpg" />
+                                                <entry key="imagePath" value="C:\Users\yamam\AndroidStudioProjects\LEDSolutions\app\src\main\res\drawable\new_logo.jpg" />
+                                                <entry key="scalingPercent" value="38" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>

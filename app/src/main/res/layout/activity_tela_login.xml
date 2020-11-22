@@ -10,15 +10,17 @@
         android:id="@+id/textView"
         android:layout_width="264dp"
         android:layout_height="49dp"
+        android:layout_marginTop="16dp"
         android:fontFamily="@font/poppins_bold"
+        android:gravity="center_horizontal"
         android:text="LED Solutions"
         android:textAlignment="center"
         android:textColor="#6FA0DF"
         android:textSize="28sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="16dp"
-        android:gravity="center_horizontal" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -28,7 +30,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@mipmap/icon_login" />
+        app:srcCompat="@mipmap/icon_login_foreground" />
 
     <TextView
         android:id="@+id/textView2"
@@ -73,7 +75,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
     <Button
-        android:id="@+id/btbuttonCadastrar"
+        android:id="@+id/buttonCadastrar"
         android:layout_width="133dp"
         android:layout_height="50dp"
         android:layout_marginStart="18dp"
@@ -98,10 +100,9 @@
         android:layout_marginEnd="18dp"
         android:layout_marginRight="18dp"
         android:background="@color/azul"
-        android:onClick="btLogin"
         android:text="@string/login"
         android:textColor="#FFFFFF"
-        app:layout_constraintEnd_toStartOf="@+id/btbuttonCadastrar"
+        app:layout_constraintEnd_toStartOf="@+id/buttonCadastrar"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tPassword" />
 

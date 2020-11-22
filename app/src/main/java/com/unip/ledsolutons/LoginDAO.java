@@ -12,14 +12,6 @@ public class LoginDAO {
         conexao = new Conexao(context, null); //criando conexão
         banco = conexao.getWritableDatabase(); //pegando meu banco de dados
     }
-  /*  public long inserir(Usuario usuario) {
-        ContentValues values = new ContentValues();
-
-        values.put("tEmail", usuario.getEmail());
-        values.put("tPassword", usuario.getPassword());
-
-        return banco.insert("usuario", null, values);
-    }*/
   public Usuario validarLogin(String login, String senha) {
 
       String[] selectionArgs = new String[]{login, senha};
