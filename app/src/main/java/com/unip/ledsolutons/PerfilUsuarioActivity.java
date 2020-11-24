@@ -1,6 +1,7 @@
 package com.unip.ledsolutons;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -51,10 +52,13 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
         pegaUsuarioPorId = dao.obterUsuarioPorId(3); // pegando meu usuario
         usuariosFiltrados.add(pegaUsuarioPorId); //lista dos dados
         ArrayAdapter<Usuario> adaptador = new ArrayAdapter<Usuario>(this, android.R.layout.simple_list_item_1, Collections.singletonList(pegaUsuarioPorId));
-
         listView.setAdapter(adaptador);
 
+        /*SharedPreferences preferences = getSharedPreferences("MYPREFS", MODE_PRIVATE);
+        String display = preferences.getString("display", "");
 
+        TextView displayInfo = (TextView) findViewById(R.id.textNomePerfil);
+        displayInfo.setText(display);*/
 
 
         botaoMinhaCarteira.setOnClickListener(new View.OnClickListener() {

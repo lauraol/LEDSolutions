@@ -76,4 +76,18 @@ public class UsuarioDAO {
         banco.close();
         return usuarioID;
     }
+
+    public Usuario validarLogin(String login, String senha) {
+
+        String[] selectionArgs = new String[]{login, senha};
+        Cursor cursor = banco.getReadableDatabase().rawQuery("SELECT * FROM usuario WHERE nome=? AND password=?", selectionArgs);
+        Usuario usuarioLinha = null;
+        while (cursor.moveToNext()) {
+            usuarioLinha = new Usuario();
+            usuarioLinha.setNome(cursor.getString(cursor.getColumnIndex("nome")));
+            usuarioLinha.setPassword(cursor.getString(cursor.getColumnIndex("password")));
+        }
+        cursor.close();
+        return usuarioLinha;
+    }
 }
