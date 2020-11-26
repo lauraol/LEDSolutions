@@ -63,6 +63,8 @@ public class Usuario implements Serializable {
     @NonNull
     @Override
     public String toString() {
-        return nome + "\n" + "\n" + email;
+
+        return nome + "\n" + "\n" + email + "\n" + "\n" + cpf;
     }
+
 }

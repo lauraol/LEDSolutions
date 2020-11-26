@@ -5,7 +5,6 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
@@ -57,52 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "Usuário inserido com id: " + id, Toast.LENGTH_SHORT).show();
     }
-
-
-
-
-
-
-
-    /*protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
-
-    final EditText userName = (EditText) findViewById(R.id.fieldName);
-    final EditText email = (EditText) findViewById(R.id.fieldEmail);
-    final EditText cpf = findViewById(R.id.fieldCPF);
-    final EditText phone = findViewById(R.id.fieldPhone);
-    final EditText password = (EditText) findViewById(R.id.fieldPassword);
-    Button btnRegister = (Button) findViewById(R.id.buttonRegister);
-
-
-        btnRegister.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View v) {
-
-            SharedPreferences preferences = getSharedPreferences("MYPREFS",MODE_PRIVATE);
-            String newUser  = userName.getText().toString();
-            String newEmail = email.getText().toString();
-            String newCpf = cpf.getText().toString();
-            String newPhone = phone.getText().toString();
-            String newPassword = password.getText().toString();
-
-            SharedPreferences.Editor editor = preferences.edit();
-
-            editor.putString(newUser,newUser);
-            editor.commit();
-            editor.putString(newPassword, newPassword);
-            editor.commit();
-            editor.putString(newCpf, newCpf);
-            editor.commit();
-            editor.putString(newPhone, newPhone);
-            editor.commit();
-            editor.putString(newUser + newPassword + "data", newUser + "\n" + newEmail);
-            editor.commit();
-        }
-    });
-
-}*/
 }
 
 
