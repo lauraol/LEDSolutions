@@ -19,7 +19,7 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
     private List<Usuario> usuarios;
     private List<Usuario> usuariosFiltrados = new ArrayList<>();
     private Usuario pegaUsuarioPorId;
-    Button botaoMinhaCarteira, buttonLogout;
+    Button botaoMinhaCarteira, buttonLogout, btProdutos;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,10 +43,11 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
             }
         });
 
-        buttonLogout.setOnClickListener(new View.OnClickListener(){
+        btProdutos = (Button) findViewById(R.id.botaoProduto);
+        btProdutos.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(PerfilUsuarioActivity.this, TelaLogin.class);
+                Intent i = new Intent(PerfilUsuarioActivity.this, ProdutosActivity.class);
                 startActivity(i);
             }
         });

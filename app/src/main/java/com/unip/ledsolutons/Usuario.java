@@ -64,7 +64,7 @@ public class Usuario implements Serializable {
     @Override
     public String toString() {
 
-        return nome + "\n" + "\n" + email + "\n" + "\n" + cpf;
+        return nome + "\n" + "\n" + email;
     }
 
 }

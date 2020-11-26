@@ -12,8 +12,6 @@ public class TelaCarteira extends AppCompatActivity {
     ImageButton buttonBack;
     Button btLogout;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,7 +20,6 @@ public class TelaCarteira extends AppCompatActivity {
         btLogout = (Button) findViewById(R.id.btLogout);
         buttonBack = (ImageButton)findViewById(R.id.btBack);
 
-
         buttonBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -30,8 +27,6 @@ public class TelaCarteira extends AppCompatActivity {
                 startActivity(i);
             }
         });
-
-
 
         btLogout.setOnClickListener(new View.OnClickListener(){
             @Override

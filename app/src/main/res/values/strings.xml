@@ -8,5 +8,13 @@
     <string name="investments">Investimentos</string>
     <string name="balance">Saldo na carteira</string>
     <string name="btLogout">Sair</string>
+    <string name="titulo" />
+    <string name="tituloPerfil">Olá, seja bem-vindo ao seu gerenciador de investimentos</string>
+    <string name="tituloDoProdutos">Produtos</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="ripple">Ripple</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="nomeMoeda">Bitcoin</string>
 
 </resources>
