@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LEDSolutons</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="myOptions">Minhas Opções</string>
+    <string name="investments">Investimentos</string>
+    <string name="balance">Saldo na carteira</string>
+    <string name="btLogout">Sair</string>
+    <string name="titulo" />
+    <string name="tituloPerfil">Olá, seja bem-vindo ao seu gerenciador de investimentos</string>
+    <string name="tituloDoProdutos">Produtos</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="ripple">Ripple</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="nomeMoeda">Bitcoin</string>
+    <string name="tituloProdutos">Top criptomoedas mais vendidas</string>
+
+</resources>

@@ -1,0 +1,64 @@
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\bin\Debug\PIMdesktop.exe.config
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\bin\Debug\PIMdesktop.exe
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\bin\Debug\PIMdesktop.pdb
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.csprojAssemblyReference.cache
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.Form1.resources
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.Properties.Resources.resources
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.csproj.GenerateResource.cache
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.csproj.CoreCompileInputs.cache
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.exe
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.pdb
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.Home.resources
+C:\Users\deborah.leite\source\repos\PIMdesktop\PIMdesktop\obj\Debug\PIMdesktop.Perfil.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\PIMdesktop.exe.config
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\PIMdesktop.exe
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\PIMdesktop.pdb
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.csprojAssemblyReference.cache
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Form1.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Home.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Perfil.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Properties.Resources.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.csproj.GenerateResource.cache
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.csproj.CoreCompileInputs.cache
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.exe
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.pdb
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Cadastro.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Busca.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.Relatorio.resources
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Google.Protobuf.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.ASTasks.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.BulkInsertTask.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\MySql.Data.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Renci.SshNet.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Buffers.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Memory.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Zstandard.Net.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.SQLTaskConnectionsWrap.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Google.Protobuf.pdb
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Google.Protobuf.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\MySql.Data.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\Renci.SshNet.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Buffers.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Memory.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\pt\Microsoft.SqlServer.ASTasks.resources.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\pt-BR\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\bin\Debug\pt-BR\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Users\debpu\Documents\deb\faculdade\4o sem\PIM\pim-desktop\PIMdesktop\obj\Debug\PIMdesktop.csproj.CopyComplete
