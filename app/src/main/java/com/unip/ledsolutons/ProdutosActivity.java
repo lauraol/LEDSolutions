@@ -20,7 +20,7 @@ public class ProdutosActivity extends AppCompatActivity {
             buttonBackProdutos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(ProdutosActivity.this, TelaCarteira.class);
+                Intent i = new Intent(ProdutosActivity.this, PerfilUsuarioActivity.class);
                 startActivity(i);
             }
         });

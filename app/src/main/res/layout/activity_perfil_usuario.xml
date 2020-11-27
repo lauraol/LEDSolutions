@@ -48,7 +48,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="16dp"
         android:background="#2196F3"
-        android:text="Produtos"
+        android:text="Informações produtos"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -30,7 +30,7 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
         dao = new UsuarioDAO(this);
         botaoMinhaCarteira = (Button) findViewById(R.id.botaoMinhaCarteira);
         buttonLogout = (Button) findViewById(R.id.buttonLogout);
-        pegaUsuarioPorId = dao.obterUsuarioPorId(17); // pegando meu usuario
+        pegaUsuarioPorId = dao.obterUsuarioPorId(19); // pegando meu usuario
         usuariosFiltrados.add(pegaUsuarioPorId); //lista dos dados
         ArrayAdapter<Usuario> adaptador = new ArrayAdapter<Usuario>(this, android.R.layout.simple_list_item_1, Collections.singletonList(pegaUsuarioPorId));
         listView.setAdapter(adaptador);
@@ -43,11 +43,19 @@ public class PerfilUsuarioActivity extends AppCompatActivity {
             }
         });
 
+        buttonLogout.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(PerfilUsuarioActivity.this, TelaLogin.class);
+                startActivity(i);
+            }
+        });
+
         btProdutos = (Button) findViewById(R.id.botaoProduto);
         btProdutos.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(PerfilUsuarioActivity.this, ProdutosActivity.class);
+                Intent i = new Intent(PerfilUsuarioActivity.this, EspecificacaoProdutoActivity.class);
                 startActivity(i);
             }
         });

@@ -16,5 +16,6 @@
     <string name="ripple">Ripple</string>
     <string name="litecoin">Litecoin</string>
     <string name="nomeMoeda">Bitcoin</string>
+    <string name="tituloProdutos">Top criptomoedas mais vendidas</string>
 
 </resources>
